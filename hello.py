@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import os, json
 from posix import environ
-print("Conetnt-type: text/html\r\n\r\n")
+print("Content-type: text/html\r\n\r\n")
 print("<title>Test CGI</title>")
 print("<p>Hello World!</p>")
 
